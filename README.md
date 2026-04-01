@@ -2,6 +2,10 @@
 
 A native iOS metronome app built with SwiftUI and AVAudioEngine. Features precise audio timing, a black-and-pink themed UI, Dynamic Island integration, and background audio playback.
 
+<p align="center">
+  <img src="screenshot.png" alt="PinkDrop Screenshot" width="300">
+</p>
+
 ## Features
 
 - **Precise click timing** via AVAudioEngine with sample-accurate scheduling
